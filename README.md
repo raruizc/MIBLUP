@@ -31,8 +31,8 @@ O MIBLUP ancora-se na Equação do Melhorista para maximizar o ganho genético (
 
 ```bash
 # Exemplo de clonagem do repositório
-git clone [https://github.com/seu-usuario/miblup-genomics.git](https://github.com/seu-usuario/miblup-genomics.git)
-cd miblup-genomics
+git clone [https://github.com/seu-usuario/miblup-genomics.git](https://github.com/seu-usuario/MIBLUP.git)
+cd MIBLUP
 
 # Executar o script principal (Exemplo em R)
 Rscript Simulacao_MI.R 
