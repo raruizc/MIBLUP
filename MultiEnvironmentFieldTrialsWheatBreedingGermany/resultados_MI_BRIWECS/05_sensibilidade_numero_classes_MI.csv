@@ -1,0 +1,4 @@
+comparacao,correlacao_spearman
+4 vs 6 classes,0.9615086503166176
+4 vs 8 classes,0.9596174622681128
+6 vs 8 classes,0.9595044124639605
