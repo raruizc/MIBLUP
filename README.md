@@ -28,7 +28,7 @@ O MIBLUP ancora-se na Equação do Melhorista para maximizar o ganho genético (
 4. **Previsão:** Resolução das equações de modelos mistos utilizando a matriz otimizada.
 
 ## Referências Importantes 
-1. Diaz et al. (2020). Genetic mapping for agronomic traits in a MAGIC population of common bean under drought conditions. Harvard Dataverse: [https://doi.org/10.5061/dryad.46pk7](https://doi.org/10.7910/DVN/JR4X4C)
+1. Diaz, Santiago; Ariza-Suarez, Daniel; Izquierdo, Paulo; Lobaton, Juan David; de la Hoz, Juan; Acevedo, Fernando; Duitama, Jorge; Guerrero, Alberto; Cajiao, Cesar; Mayor, Victor; Beebe, Stephen; Raatz, Bodo, 2019, "Replication Data for: Genetic mapping for agronomic traits in a MAGIC population of common bean (Phaseolus vulgaris L.) under drought conditions", https://doi.org/10.7910/DVN/JR4X4C
 2. Wang et al. (2025). Multi-environment field trials for wheat yield, stability and breeding progress in Germany. Scientific Data: https://doi.org/10.6084/m9.figshare.27910269 
 
 ## 💻 Como Utilizar
