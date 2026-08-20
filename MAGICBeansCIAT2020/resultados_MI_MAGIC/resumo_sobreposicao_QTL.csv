@@ -1,0 +1,5 @@
+Analysis,Year,Trait,Method,Individuals,Markers,TopN,QTLChromosome,QTLStart,QTLEnd,MarkersInWindow,TopMarkersInWindow,ExpectedByChance,FoldEnrichment,ReferenceMarker,ReferenceMarkerRank,ReferenceMarkerMI
+Produtividade (2013),2013,Yd,BLUP,444,12167,122,Chr01,1e+07,1.8e+07,109,43,1.09295635736007,39.3428335087983,Pv2.1_01_11238077_T/A,18,0.0766418718358639
+Maturidade fisiologica (2014),2014,DPM,BLUP,602,12203,123,Chr08,0,1600000,313,123,3.15487994755388,38.9872204472844,,,
+Ferro na semente (2014),2014,SdFe,BLUP,601,12221,123,Chr06,2.1e+07,2.4e+07,268,80,2.69732427788233,29.659021963354,,,
+Indice de colheita da vagem (2013),2013,PHI,BLUP,444,12167,122,Chr02,4.7e+07,4.8e+07,54,12,0.541464617407742,22.1621129326047,Pv2.1_02_47643879_G/T,,
