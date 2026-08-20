@@ -27,6 +27,10 @@ O MIBLUP ancora-se na Equação do Melhorista para maximizar o ganho genético (
 3. **Ponderação Genómica:** SNPs com alta IM (QTLs causais/epistáticos) recebem pesos elevados na matriz genómica ($G_{MI}$), enquanto os ruídos recebem pesos próximos de zero.
 4. **Previsão:** Resolução das equações de modelos mistos utilizando a matriz otimizada.
 
+## Referências Importantes 
+1. Diaz et al. (2020). Genetic mapping for agronomic traits in a MAGIC population of common bean under drought conditions. Harvard Dataverse: 10.7910/DVN/JR4X4C.
+2. Wang et al. (2025). Multi-environment field trials for wheat yield, stability and breeding progress in Germany. Scientific Data: https://doi.org/10.6084/m9.figshare.27910269 
+
 ## 💻 Como Utilizar
 
 ```bash
